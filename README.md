@@ -5,6 +5,8 @@ Collection of React Hooks ready to install with NPM
 - [x] useTitle
 - [x] useClick
 - [x] useHover
+- [x] usePreventLeave
+- [x] useConfirm
 - [ ] usePageLeave
 - [ ] useFadeIn
 - [ ] useFullscreen
@@ -13,6 +15,4 @@ Collection of React Hooks ready to install with NPM
 - [ ] useNotification
 - [ ] useScroll
 - [ ] useTabs
-- [ ] usePreventLeave
-- [ ] useConfirm
 - [ ] useAxios
