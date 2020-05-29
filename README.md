@@ -12,6 +12,6 @@ Collection of React Hooks ready to install with NPM
 - [x] useNetwork
 - [x] useFullscreen
 - [x] useScroll
-- [ ] useNotification
+- [x] useNotification
 - [ ] useTabs
 - [ ] useAxios
