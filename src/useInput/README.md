@@ -8,7 +8,7 @@ const App = () => {
   return (
     <div className="App">
       <h1>Hello</h1>
-      <input placeholder="Name" {...name} />
+      <input placeholder="Name" {...name.props} />
     </div>
   );
 };
